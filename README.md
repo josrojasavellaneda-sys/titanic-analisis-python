@@ -49,3 +49,4 @@ El mismo proceso de este proyecto —limpieza, análisis exploratorio, visualiza
 ---
 
 📌 Proyecto realizado como parte de mi proceso de aprendizaje en análisis de datos con Python.
+/blob/main/README.md
